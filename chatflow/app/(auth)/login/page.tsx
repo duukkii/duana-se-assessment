@@ -40,41 +40,41 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen flex">
+    <div className="min-h-screen max-h-screen flex overflow-hidden">
       {/* Left Side - Branding */}
-      <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-bg-sidebar via-gray-950 to-bg-sidebar p-12 flex-col justify-between">
+      <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-bg-sidebar via-gray-950 to-bg-sidebar p-8 xl:p-12 flex-col justify-between overflow-hidden">
         <div>
-          <div className="flex items-center gap-2 text-white mb-8">
-            <Image src="/logo.svg" alt="ChatFlow Logo" width={60} height={60} />
-            <span className="text-2xl font-bold">ChatFlow</span>
+          <div className="flex items-center gap-2 text-white mb-6">
+            <Image src="/logo.svg" alt="ChatFlow Logo" width={48} height={48} />
+            <span className="text-xl font-bold">ChatFlow</span>
           </div>
-          <h1 className="text-8xl font-bold text-white mb-6 leading-tight">
+          <h1 className="text-4xl xl:text-5xl 2xl:text-6xl font-bold text-white mb-4 leading-tight">
             Manage and<br />create chatbots,<br />effortlessly.
           </h1>
-          <p className="text-slate-300 text-xl max-w-md">
+          <p className="text-slate-300 text-base xl:text-lg max-w-md">
             Deploy in minutes, monitor performance, and engage customers with our intuitive platform.
           </p>
         </div>
         
         {/* 3D Robot Illustration */}
-        <div className="rounded-2xl p-6 flex items-center justify-self-start">
+        <div className="rounded-2xl flex items-center justify-center">
           <Image 
             src="/robot.svg" 
             alt="ChatFlow Robot" 
-            width={300} 
-            height={300}
+            width={240} 
+            height={240}
             className="object-contain"
           />
         </div>
       </div>
 
       {/* Right Side - Login Form */}
-      <div className="flex-1 flex items-center justify-center p-8 bg-black">
-        <div className="w-full max-w-md space-y-8">
+      <div className="flex-1 flex items-center justify-center p-4 sm:p-6 lg:p-8 bg-black overflow-y-auto">
+        <div className="w-full max-w-md space-y-6">
           {/* Mobile Logo */}
-          <div className="lg:hidden flex items-center gap-2 text-foreground mb-8">
+          <div className="lg:hidden flex items-center gap-2 text-foreground">
             <Image src="/logo.svg" alt="ChatFlow Logo" width={32} height={32} />
-            <span className="text-2xl font-bold">ChatFlow</span>
+            <span className="text-xl font-bold">ChatFlow</span>
           </div>
 
           {/* Tabs */}
@@ -92,9 +92,9 @@ export default function LoginPage() {
           </div>
 
           <div>
-            <h2 className="text-3xl font-bold text-foreground mb-2">Welcome Back</h2>
+            <h2 className="text-2xl font-bold text-foreground mb-2">Welcome Back</h2>
             
-            <form onSubmit={handleSubmit} className="space-y-6 mt-8">
+            <form onSubmit={handleSubmit} className="space-y-4 mt-6">
               <div className="space-y-2">
                 <Label htmlFor="email">Work Email</Label>
                 <Input
