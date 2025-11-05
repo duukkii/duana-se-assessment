@@ -57,12 +57,12 @@ export default function LoginPage() {
         </div>
         
         {/* 3D Robot Illustration */}
-        <div className="rounded-2xl flex items-center justify-center">
+        <div className="rounded-2xl flex items-center justify-start">
           <Image 
             src="/robot.svg" 
             alt="ChatFlow Robot" 
-            width={240} 
-            height={240}
+            width={320} 
+            height={320}
             className="object-contain"
           />
         </div>
