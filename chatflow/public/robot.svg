@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 21px;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-7 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill: #038af0;
+      }
+
+      .cls-1, .cls-3, .cls-5, .cls-6, .cls-7 {
+        stroke: #0f497d;
+      }
+
+      .cls-2 {
+        stroke: #0f497d;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #038af0;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #0f497d;
+      }
+    </style>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect class="cls-1" x="276.43" y="367.87" width="53.89" height="104.62" rx="26.94" ry="26.94"/>
+    <rect class="cls-1" x="693.59" y="367.87" width="53.89" height="104.62" rx="26.94" ry="26.94"/>
+    <line class="cls-1" x1="512" y1="275.13" x2="512" y2="215.64"/>
+    <polyline class="cls-7" points="392.76 282.68 323.83 209.03 243.57 209.03"/>
+    <polyline class="cls-7" points="751.56 384.65 810.1 327.06 810.1 261.38"/>
+    <polyline class="cls-7" points="698.03 614.52 759.48 555.25 835.31 555.25"/>
+    <polyline class="cls-7" points="710.86 689.83 766.67 689.83 824 745.7"/>
+    <polyline class="cls-7" points="319.33 622.23 268.16 622.23 212.77 679.5 212.77 738.18"/>
+    <polyline class="cls-7" points="322.54 520.97 272.86 520.97 241.11 488.1 186.21 488.1"/>
+    <circle class="cls-1" cx="512" cy="181.16" r="34.48"/>
+    <circle class="cls-4" cx="810.1" cy="231.87" r="34.48"/>
+    <circle class="cls-4" cx="207.11" cy="209.03" r="34.48"/>
+    <circle class="cls-4" cx="156.85" cy="488.1" r="34.48"/>
+    <circle class="cls-4" cx="212.77" cy="772.71" r="34.48"/>
+    <circle class="cls-4" cx="830.74" cy="766.95" r="34.48"/>
+    <circle class="cls-4" cx="869.79" cy="550.4" r="34.48"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-5" d="M713.78,643.94v110.02c0,46.79-40.1,84.73-89.57,84.73h0s-.04.02-.04.04l-2.7,33.06c-3.25,31.63-24.82,27.77-39.82,15.59l-49.1-39.85c-7.03-5.7-15.98-8.84-25.24-8.84h-108.67c-49.47,0-89.57-37.93-89.57-84.73v-110.02c0-46.79,40.1-84.73,89.57-84.73h225.58c49.47,0,89.57,37.93,89.57,84.73Z"/>
+    <rect class="cls-5" x="310.22" y="269.44" width="404.71" height="343.36" rx="130.06" ry="130.06"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect class="cls-3" x="358.16" y="344.81" width="304.3" height="139.55" rx="69.77" ry="69.77"/>
+    <circle class="cls-6" cx="442.46" cy="415.76" r="19.06"/>
+    <circle class="cls-6" cx="580.73" cy="415.76" r="19.06"/>
+    <path class="cls-7" d="M469.64,518.12c1.37,1.99,15.25,21.45,40.67,22.11,25.79.67,40.74-18.6,42.12-20.44"/>
+    <line class="cls-2" x1="417.86" y1="689.83" x2="623.55" y2="689.83"/>
+    <line class="cls-2" x1="418.91" y1="752.85" x2="525.85" y2="752.85"/>
+  </g>
+</svg>
