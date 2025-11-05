@@ -132,7 +132,6 @@ For detailed information, see:
 - **[UX-DECISIONS.md](./UX-DECISIONS.md)** - User personas, flows, UX principles
 - **[ANALYTICS.md](./ANALYTICS.md)** - PostHog integration and event tracking
 - **[OAUTH_SETUP.md](./OAUTH_SETUP.md)** - Google/Microsoft OAuth setup guide
-- **[ENV_SETUP.md](./ENV_SETUP.md)** - Environment variables configuration
 - **[PROJECT_SUMMARY.md](./PROJECT_SUMMARY.md)** - Complete feature overview
 
 ## Development
