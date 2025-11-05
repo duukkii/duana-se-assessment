@@ -131,7 +131,6 @@ For detailed information, see:
 - **[DESIGN.md](./DESIGN.md)** - Design system, colors, typography, components
 - **[UX-DECISIONS.md](./UX-DECISIONS.md)** - User personas, flows, UX principles
 - **[ANALYTICS.md](./ANALYTICS.md)** - PostHog integration and event tracking
-- **[OAUTH_SETUP.md](./OAUTH_SETUP.md)** - Google/Microsoft OAuth setup guide
 - **[PROJECT_SUMMARY.md](./PROJECT_SUMMARY.md)** - Complete feature overview
 
 ## Development
