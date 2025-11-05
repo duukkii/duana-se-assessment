@@ -40,7 +40,7 @@ export function SuccessDialog({ open, onOpenChange, chatbotName }: SuccessDialog
             </div>
           </div>
           <DialogTitle className="text-2xl">Chatbot Created Successfully!</DialogTitle>
-          <DialogDescription className="text-base">
+          <DialogDescription className="text-base text-center">
             <span className="font-semibold">&quot;{chatbotName}&quot;</span> is ready. You can now monitor its
             performance in your analytics.
           </DialogDescription>
