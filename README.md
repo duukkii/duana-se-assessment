@@ -4,6 +4,8 @@ A responsive frontend web application for managing chatbots across multiple comp
 
 View deployed web application here: https://duana-se-assessment.vercel.app/
 
+Link to PART B of the Assignment here: **[PART_B.md](./PART_B.md)**
+
 ## Features
 
 - **Authentication & Onboarding**
