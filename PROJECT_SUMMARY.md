@@ -49,9 +49,8 @@ ChatFlow is a fully responsive multi-tenant chatbot management platform built wi
 - ✅ Top User Queries list
 - ✅ Response Time Distribution
 
-### 5. Additional Pages
+### 5. Additional Functions
 - ✅ Settings page (Workspace & Account settings)
-- ✅ Integrations page (Slack, WhatsApp, Facebook, etc.)
 - ✅ Help Center link in sidebar
 - ✅ Logout functionality
 
@@ -81,7 +80,6 @@ chatflow/
 │   │   │   ├── new/page.tsx
 │   │   │   └── [id]/analytics/page.tsx
 │   │   ├── analytics/page.tsx
-│   │   ├── integrations/page.tsx
 │   │   └── settings/page.tsx
 │   ├── api/
 │   │   ├── auth/
@@ -222,10 +220,6 @@ This project demonstrates:
 3. **DESIGN.md** - Design system, color palette, typography, component patterns
 4. **UX-DECISIONS.md** - User personas, user flows, UX principles
 5. **ANALYTICS.md** - PostHog integration plan and event tracking strategy
-6. **OAUTH_SETUP.md** - Google and Microsoft OAuth setup guide
-7. **ENV_SETUP.md** - Environment variables configuration guide
-8. **FILE_LIST.md** - Complete file listing with purposes
-9. **PAGE_MAP.md** - Visual page hierarchy and navigation structure
 
 ## ✨ Future Enhancements
 
