@@ -55,7 +55,7 @@ Link to Extra Credit Assignment here: **[EDITORIAL.md](./EDITORIAL.md)**
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/duukkii/duana-se-assessment>
+git clone https://github.com/duukkii/duana-se-assessment
 cd chatflow
 ```
 
