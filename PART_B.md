@@ -4,18 +4,18 @@
 
 ### a. What components/technologies are new to you in this assignment?
 
-- **Next.js** was new to me. While they are similar, I've only worked with React/React Native previously so it took awhile to get used to.
-- I explored using **Recharts** during this assignment to generate the charts for the analytics pages, as per ChatGPT’s suggestion.
-- **OAuth**… Did not manage to set it up and make it work but I tried.
-- It was my first time deploying with **Vercel**, previously I used **Netlify**.
+- Next.js was new to me. While they are similar, I've only worked with React/React Native previously so it took awhile to get used to.
+- I explored using Recharts during this assignment to generate the charts for the analytics pages, as per ChatGPT’s suggestion.
+- OAuth... Did not manage to set it up and make it work but I tried.
+- It was my first time deploying with Vercel, previously I used Netlify.
 
 ### b. What components are familiar to you (worked with before)?
 
-- **TypeScript**
-- **shadcn/ui**
-- **CSS**
-- **TanStack Query**
-- **GitHub**
+- TypeScript
+- shadcn/ui
+- CSS
+- TanStack Query
+- GitHub
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### b. Which state management libraries/patterns have you used before?
 
-- I mostly use **Context API** and **TanStack Query** for my projects, and I’ve only read about/heard about the rest.
+- I mostly use Context API and TanStack Query for my projects, and I’ve only read about/heard about the rest.
 
 ### c. What are the trade-offs between different state management approaches?
 
@@ -56,14 +56,14 @@
 
 ### b. How long will you take to reach basic competency?
 
-- Honestly, it’s really difficult to give a specific timeline, but with more practice projects, maybe **1-2 months**?
+- Honestly, it’s really difficult to give a specific timeline, but with more practice projects, maybe 1-2 months?
 - For higher levels of competency, I’d definitely require more time.
 
 ### c. What would you build to practice?
 
-- **E-commerce catalog** where users can browse products, view product details, and add products to a cart.
-- **Task management app** where users can add, edit, delete, and mark tasks as complete.
-- **Simple blog** with posts fetched from an API using Server-Side Rendering (SSR).
+- E-commerce catalog where users can browse products, view product details, and add products to a cart.
+- Task management app where users can add, edit, delete, and mark tasks as complete.
+- Simple blog with posts fetched from an API using Server-Side Rendering (SSR).
 
 ### d. What’s your learning strategy for quickly picking up new tools?
 
@@ -90,33 +90,33 @@
 
 ##### i. What features would you build first?
 
-1. **Core user flows**: User Authentication, Dashboard Page, Chatbot Creation Form, Basic Chatbot Analytics page.
-2. **API Routes**.
-3. **Basic UI layout** (no styling, just boxes and text).
-4. **TanStack Query** for data fetching.
+1. Core user flows User Authentication, Dashboard Page, Chatbot Creation Form, Basic Chatbot Analytics page.
+2. API Routes.
+3. Basic UI layout (no styling, just boxes and text).
+4. TanStack Query for data fetching.
 
 ##### ii. What would you validate?
 
-1. **User Authentication Flow** and Function.
-2. **Create Chatbot Flow**.
-3. **Basic Dashboard Validation** (does the list show up accurately?).
-4. **API Response Handling**.
+1. User Authentication Flow and Function.
+2. Create Chatbot Flow.
+3. Basic Dashboard Validation (ie. does the list show up accurately?).
+4. API Response Handling.
 
 ##### iii. What shortcuts would you take?
 
-1. Use **dummy data**.
-2. Focus on **UX** instead of UI, no animations, no styling.
-3. **Minimal form validation**.
-4. Skip **real-time features** for now.
+1. Use dummy data.
+2. Focus on UX instead of UI, no animations, no styling.
+3. Minimal form validation.
+4. Skip real-time features for now.
 
 #### **b. Week 2 priorities:**
 
 ##### i. What would you polish/improve?
 
-1. Add in **UI details** (i.e. styling, responsiveness).
-2. **Error handling** and edge cases.
-3. Add in details for **Authentication** (i.e. reset password, etc.).
-4. **Chatbot details**.
+1. Add in UI details (i.e. styling, responsiveness).
+2. Error handling and edge cases.
+3. Add in details for Authentication(i.e. reset password, etc.).
+4. Chatbot details.
 
 ##### ii. What would you deploy?
 
