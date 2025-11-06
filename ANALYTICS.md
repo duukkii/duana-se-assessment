@@ -766,10 +766,15 @@ Format: `object_action` (e.g., `chatbot_created`, `dashboard_viewed`)
 ### What NOT to Track
 
 ❌ Passwords or password hashes
+
 ❌ Credit card numbers
+
 ❌ Social security numbers
+
 ❌ Full message content (only metadata)
+
 ❌ IP addresses (unless necessary)
+
 ❌ Precise geolocation
 
 ---
