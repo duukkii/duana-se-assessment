@@ -61,19 +61,6 @@ This document outlines the design decisions, patterns, and systems used in the C
 - Accessible and distinguishable for most users
 - Conveys technology and innovation
 
-**Placeholder for Custom Branding:**
-```
-[Add your custom brand colors here]
-- Brand Primary: #______
-- Brand Secondary: #______
-- Brand Accent: #______
-
-[Add your logo specifications]
-- Logo dimensions
-- Logo variations (light/dark)
-- Logo usage guidelines
-```
-
 ---
 
 ## Typography Scales
