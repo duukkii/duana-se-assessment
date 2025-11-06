@@ -6,6 +6,8 @@ View deployed web application here: https://duana-se-assessment.vercel.app/
 
 Link to PART B of the Assignment here: **[PART_B.md](./PART_B.md)**
 
+Link to Extra Credit Assignment here: **[EDITORIAL.md](./EDITORIAL.md)**
+
 ## Features
 
 - **Authentication & Onboarding**
