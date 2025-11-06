@@ -8,6 +8,7 @@
 - I explored using Recharts during this assignment to generate the charts for the analytics pages, as per ChatGPT’s suggestion.
 - OAuth... Did not manage to set it up and make it work but I tried.
 - It was my first time deploying with Vercel, previously I used Netlify.
+- I knew nothing about PostHog prior to this assignment. The assignment gave me the opportunity to read up and learn more about it.
 
 ### b. What components are familiar to you (worked with before)?
 
